@@ -34,7 +34,7 @@ _italics_
 #### this project is responsive to all types of ......
 
 ## full screen
-![full screen](./lap.png)
+![lap screen](./lap.png)
 
 ## mobile screen
 ![mobile screen](./mobile.png)
